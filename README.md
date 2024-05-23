@@ -1,5 +1,5 @@
 
-# FILM FINDER
+# Movie Scout
 
 A website allows users to choose a movie genre from a dropdown menu and receive a recommendation for a random movie based on their selection. The website is designed to provide an enjoyable and personalized movie suggestion experience.
 
