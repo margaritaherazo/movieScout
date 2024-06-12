@@ -30,6 +30,7 @@ body {
     flex-direction: column;
     gap: 30px;
   }
+
   
   #loader {
     display: none;
@@ -151,3 +152,69 @@ body {
     background-color: #db0000;
     color: #910000;
   }
+
+  
+
+@media (max-width: 768px) {
+  #appTitle {
+      font-size: 35px;
+  }
+
+  #movieInfo {
+      width: 90%;
+      flex-direction: column;
+  }
+
+  img#moviePoster {
+      width: 70%;
+  }
+
+  #movieText {
+      font-size: 18px;
+  }
+
+  #genres {
+      width: 50%;
+      font-size: 18px;
+  }
+
+  #playBtn {
+      width: 50%;
+      font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  #appTitle {
+      font-size: 30px;
+  }
+
+  #movieInfo {
+      width: 95%;
+  }
+
+  img#moviePoster {
+      width: 90%;
+  }
+
+  #movieText {
+      font-size: 16px;
+  }
+
+  #genres {
+      width: 80%;
+      font-size: 16px;
+  }
+
+  #playBtn {
+      width: 80%;
+      font-size: 16px;
+  }
+
+  #likeBtn,
+  #dislikeBtn {
+      width: 50%;
+      font-size: 20px;
+      padding: 10px 20px;
+  }
+}
