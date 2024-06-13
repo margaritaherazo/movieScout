@@ -1,6 +1,9 @@
 
 # Movie Scout
 
+![Moviescout](https://github.com/margaritaherazo/movieScout/assets/143548777/f57c0403-bd88-4929-8bed-954d1bfe6cdb)
+
+
 A website allows users to choose a movie genre from a dropdown menu and receive a recommendation for a random movie based on their selection. The website is designed to provide an enjoyable and personalized movie suggestion experience.
 
 ## Features
@@ -14,6 +17,10 @@ User-Friendly Interface: The interface is intuitive and easy to navigate, enhanc
 HTML: Used for structuring the website's content and layout.
 CSS: Styles the website to improve visual appeal and user interaction.
 JavaScript: Powers the interactive features, such as genre selection and movie recommendation.
+
+##Check it live
+
+https://movie-scout-project.netlify.app/
 
 
 ## Credits
